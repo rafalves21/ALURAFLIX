@@ -36,3 +36,16 @@ section{
 h1{
     font-size: 40px;
 }
+
+p {
+    font-size: 20px;
+}
+
+img {
+height:20px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
