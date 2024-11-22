@@ -3,7 +3,7 @@ body {
     color:rgb(255, 0, 0);
     background: rgb(224, 112, 112);
     margin: 0px;
-    
+    font-family: "Chakra Petch", sans-serif;
 }
 header {
     border-bottom: solid 2px rgb(177, 0, 0);
