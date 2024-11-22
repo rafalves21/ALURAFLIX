@@ -42,8 +42,17 @@ p {
 }
 
 img {
-height:20px;
+height:200px;
 }
+
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+
 
 .categoria {
     padding-left: 20px;
